@@ -1,11 +1,12 @@
 # Fahrstundenplaner
 
-Ein Werkzeug für Fahrschul-Instruktoren zur Planung und Verwaltung von Unterrichtsstunden.
+Dieses Projekt ist eine Anwendung für Fahrschul­lehrer, die zur Planung und Verwaltung von Fahrstunden mit Schülern dient.
 
-## Beschreibung das Programm ermöglicht:
-- Schüler für Unterrichtsstunden anzumelden
-- Den Status der Stunden zu verwalten (geplant, durchgeführt, abgesagt)
-- Die Anzahl der durchgeführten Stunden für jeden Schüler zu erfassen
+## Hauptfunktionen
+
+- Anmeldung von Schülern für Fahrstunden mit Angabe von Datum, Uhrzeit und Dauer.
+- Verwaltung des Status von Fahrstunden (geplant, abgeschlossen, abgesagt).
+- Erfassung der von jedem Schüler absolvierten Stunden- Speicherung und Ansicht der Fahrstundenhistorie## Ziel des ProjektsDie Organisation des Unterrichts in der Fahrschule zu vereinfachen und eine bequeme Kontrolle der Unterrichtsstunden zu ermöglichen.
 
 
   **Autor:** *Anastasia Kominch*
