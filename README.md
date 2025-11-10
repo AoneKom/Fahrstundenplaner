@@ -1,6 +1,6 @@
 # Fahrstundenplaner
 
-#Ein Werkzeug für Fahrschul-Instruktoren zur Planung und Verwaltung von Unterrichtsstunden.
+Ein Werkzeug für Fahrschul-Instruktoren zur Planung und Verwaltung von Unterrichtsstunden.
 
 ## BeschreibungDas Programm ermöglicht:
 - Schüler für Unterrichtsstunden anzumelden
